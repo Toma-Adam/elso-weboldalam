@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: lightcoral;
+}
+.elso{
+    color: purple;
+    text-align: left;
+}
+.arany{
+    color: gold;
+}
+.kep
+{
+    width: 400px;
+    height: 250px;
+    object-fit: cover; /*tartja az arányokat nem nyomja össze a képet*/
+    margin: 10px; /*kis távolság a képek között*/
+}
+.elsoB /* osztály neve előtte pont!*/
+{
+    color: goldenrod;
+    background-color: black;
+    padding: 10px 20px;/*husosabb a gomb*/
+    border: none;/*nincs keret*/
+       cursor: pointer; /*kis kéz lesz az egérből    */
+}
+.masodikB
+{
+color: green;
+background-color: black;
+padding:  10px 20px;
+border: none;
+cursor: pointer;
+}
+
+.botanic
+{
+    color: blue;
+}
+.harmadikB
+{
+    color: brown;
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.negyedikB
+{
+    color: chartreuse;
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.come
+{
+    color: lime;
+}
+.otodikB
+{
+    color: green;
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.szeri
+{
+    color: red;
+    text-align: end;
+    
+}
